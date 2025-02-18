@@ -4,6 +4,7 @@ Developed in JavaScript. Use Node.js to run.
 Step 1 : Run `Challenge_1.js` to generate the objects file
 
 `node Challenge_1.js`
+![Proof](images/challengeA.png)
 
 ## Challenge B verification
 Step 2 : Run `Challenge_2.js` to print objects in the console
