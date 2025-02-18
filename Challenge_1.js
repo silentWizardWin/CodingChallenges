@@ -11,7 +11,7 @@ const {
 console.time('executionTime');
 
 const OUTPUT_FILE = "output.txt";
-const FILE_SIZE = 1 * 1024 * 1024; // file size = 10MB
+const FILE_SIZE = 1 * 1024 * 1024; // file size = 1MB
 
 const generateRandomObjects = () => {
   let data = "";
@@ -47,4 +47,3 @@ fs.writeFileSync(OUTPUT_FILE, mergedData, "utf8");
 
 // Timer end
 console.timeEnd('executionTime');
-// ------------------------------------------------------------------------------
