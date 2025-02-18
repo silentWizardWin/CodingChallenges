@@ -10,7 +10,7 @@ Step 1 : Run `Challenge_1.js` to generate the objects file
 ## Challenge B verification
 Step 2 : Run `Challenge_2.js` to print objects in the console
 
-`node Challenge_1.js`
+`node Challenge_2.js`
 
 ![Proof](images/challengeB.png)
 
